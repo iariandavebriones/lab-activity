@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\example-larave-app\resources\views/index.blade.php ENDPATH**/ ?>
